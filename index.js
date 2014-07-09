@@ -1,7 +1,14 @@
+// glob-copy 0.1.0
+// ---------------
+
+//     (c) 2014 Adam Krebs
+//     glob-copy may be freely distributed under the MIT license.
+//     For all details and documentation:
+//     https://github.com/akre54/glob-copy
+
 var fs = require('fs'),
     path = require('path'),
     glob = require('glob');
-
 
 var copy = function(files, destFolder) {
   files.forEach(function(filename) {
