@@ -7,6 +7,14 @@ Usage
 -----
 `cp(src, dest, cb)`
 
+`src` can be a string or an array of strings with a glob pattern.
+(see [minimatch patterns](https://github.com/isaacs/minimatch#usage) and
+[examples](https://github.com/sindresorhus/globby#globbing-patterns))
+
+`dest` is a string.
+
+`cb` is optional.
+
 Example
 -------
 ```

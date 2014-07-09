@@ -1,4 +1,4 @@
-// glob-copy 0.1.0
+// glob-copy 0.2.0
 // ---------------
 
 //     (c) 2014 Adam Krebs

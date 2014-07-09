@@ -1,6 +1,6 @@
 {
   "name": "glob-copy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Glob-aware cp for node",
   "main": "index.js",
   "author": "Adam Krebs <amk528@cs.nyu.edu> (http://sberkmada.com/)",
