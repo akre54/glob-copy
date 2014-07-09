@@ -8,7 +8,7 @@
 
 var fs = require('fs'),
     path = require('path'),
-    glob = require('glob');
+    glob = require('globby');
 
 var copy = function(files, destFolder) {
   files.forEach(function(filename) {

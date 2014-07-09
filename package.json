@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "glob": "^4.0.3"
+    "globby": "^0.1.1"
   }
 }
