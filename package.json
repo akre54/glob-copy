@@ -1,0 +1,15 @@
+{
+  "name": "glob-copy",
+  "version": "0.1.0",
+  "description": "Glob-aware cp for node",
+  "main": "index.js",
+  "author": "Adam Krebs <amk528@cs.nyu.edu> (http://sberkmada.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:akre54/glob-copy.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^4.0.3"
+  }
+}
